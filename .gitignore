@@ -1,0 +1,11 @@
+# Ignore Visual Studio cache
+.vs/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore IntelliSense and temp files
+*.ipch
+*.user
+*.suo
