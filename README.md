@@ -78,7 +78,7 @@ OpenGL-Interactive-Scene-Renderer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/OpenGL-Interactive-Scene-Renderer.git
+git clone https://github.com/mrNiiAmatey/OpenGL-Interactive-Scene-Renderer.git
 cd OpenGL-Interactive-Scene-Renderer
 
 # Build (adjust based on your build system)
@@ -188,7 +188,7 @@ This project represents the culmination of coursework in computational graphics,
 ## 📧 Contact
 
 **Nii Amatey Tagoe**  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://mrniiamateytagoe.dev) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://mrniiamateytagoe.dev) | [GitHub](https://github.com/mrNiiAmatey)
 
 ---
 
